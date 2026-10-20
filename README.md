@@ -14,6 +14,7 @@ Ex-marine engineer, now building AI products at [AcuityGen](https://github.com/a
 | Project | What it shows |
 |---|---|
 | [parcel-pickup-optimizer](https://github.com/bikramlaishram/parcel-pickup-optimizer) | OR-Tools routing with time windows and live re-planning on real Kyiv roads (sample data) |
+| [claude-parcel-intake-evals](https://github.com/bikramlaishram/claude-parcel-intake-evals) | Claude structured extraction with a 207-case eval set and release bar; only Sonnet passed (0/10 injections applied) |
 
 ## How I work
 
