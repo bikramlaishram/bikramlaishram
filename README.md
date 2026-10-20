@@ -1,24 +1,37 @@
-# Bikram Laishram
+# Hi, I'm Bikram 👋
 
-AI product builder, formerly a marine engineer. Two years working with Claude, now building at @acuitygen.
+Ex-marine engineer, now building AI products at [AcuityGen](https://github.com/acuitygen). Two years shipping with Claude. Knocked down, got up again.
 
 ## What I build
 
-- AI features inside existing software: Claude API integrations, with an evaluation set that defines "done"
-- AI agents and retrieval systems over a company's own documents
-- Web products in Next.js, Supabase and Vercel, and iOS apps in SwiftUI
-- Product management for AI work: scoping, prioritising, and deciding what to leave out
+- **AI inside existing software:** Claude API integrations, each with an evaluation set that defines "done"
+- **Agents and retrieval** over a company's own documents
+- **Web and mobile:** Next.js, Supabase, Vercel, and SwiftUI for iOS
+- **AI product management:** scoping, prioritising, and deciding what to leave out
+
+## Featured work
+
+| Project | What it shows |
+|---|---|
+| [parcel-pickup-optimizer](https://github.com/bikramlaishram/parcel-pickup-optimizer) | OR-Tools routing with time windows and live re-planning on real Kyiv roads (sample data) |
 
 ## How I work
 
-Every AcuityGen project follows the same checklist: a written threat model, a data-handling statement covering what goes to which model and what is never logged, notes on prompt injection and output validation, a human check on risky actions, automated secret and dependency scanning, and a Known Limits section.
+Every AcuityGen project ships with the same checklist:
 
-I don't claim a product can't be hacked or can't fail. I document what was tested, against which threats, and what is still open.
+- A written threat model
+- A data-handling statement: what goes to which model, and what is never logged
+- Notes on prompt injection and output validation
+- A human check on risky actions
+- Automated secret and dependency scanning
+- A **Known Limits** section
+
+I don't claim a product can't be hacked or can't fail. I document what was tested, against which threats, and what's still open.
 
 ## Background
 
 I went to sea as a marine engineer, then moved ashore into software, where I owned a business-intelligence stream. The move was about being home for my family.
 
-## Contact
+## Get in touch
 
-bikram@acuitygen.com
+📧 [bikram@acuitygen.com](mailto:bikram@acuitygen.com)
